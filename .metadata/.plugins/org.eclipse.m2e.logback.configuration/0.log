@@ -8,3 +8,16 @@
 2018-05-31 14:02:48,714 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CURSO\gitjava\pruebaGit\src\main\resources
 2018-05-31 14:02:48,716 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-05-31 14:02:48,716 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CURSO\gitjava\pruebaGit\src\test\resources
+2018-05-31 14:04:37,642 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-31 14:04:37,643 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CURSO\gitjava\pruebaGit\src\main\resources
+2018-05-31 14:04:37,644 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-31 14:04:37,644 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CURSO\gitjava\pruebaGit\src\test\resources
+2018-05-31 14:05:07,915 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\CURSO\gitjava\prueba\pom.xml
+2018-05-31 14:05:08,482 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.asefa:prueba:0.0.1-SNAPSHOT @ C:\CURSO\gitjava\prueba\pom.xml.
+2018-05-31 14:05:09,320 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /prueba/src/main/java
+2018-05-31 14:05:09,354 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /prueba/src/test/java
+2018-05-31 14:05:09,465 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2018-05-31 14:05:09,972 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-31 14:05:09,982 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CURSO\gitjava\prueba\src\main\resources
+2018-05-31 14:05:10,018 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-31 14:05:10,024 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CURSO\gitjava\prueba\src\test\resources
