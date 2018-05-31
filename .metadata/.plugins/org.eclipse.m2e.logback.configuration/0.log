@@ -1,0 +1,10 @@
+2018-05-31 14:01:32,410 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-31 14:02:41,316 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\CURSO\gitjava\pruebaGit\pom.xml
+2018-05-31 14:02:44,289 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.asefa:pruebaGit:0.0.1-SNAPSHOT @ C:\CURSO\gitjava\pruebaGit\pom.xml.
+2018-05-31 14:02:46,880 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pruebaGit/src/main/java
+2018-05-31 14:02:46,888 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pruebaGit/src/test/java
+2018-05-31 14:02:47,831 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2018-05-31 14:02:48,713 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-31 14:02:48,714 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CURSO\gitjava\pruebaGit\src\main\resources
+2018-05-31 14:02:48,716 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-31 14:02:48,716 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CURSO\gitjava\pruebaGit\src\test\resources
